@@ -44,7 +44,7 @@ With the increasing threat of space junk, this project offers an **autonomous an
 - **Data Sources**: NASA, ESA, Space-Track.org API  
 
 ## 🚀 Novelty & Innovation  
-✔ **Tracks debris as small as 5mm**, which traditional systems struggle to detect.
+✔ **Tracks debris as small as 5mm**, which traditional systems struggle to detect
 ✔ **LiDAR + AI fusion for enhanced detection**, allowing precise measurement of small, high-speed objects.
 ✔ **AI-driven debris classification** vs. traditional radar-based tracking.  
 ✔ **Blockchain-secured alerts** ensuring reliable, tamper-proof data.  
